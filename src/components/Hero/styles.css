@@ -1,0 +1,33 @@
+/*HERO CSS*/
+.hero-color{
+    color: #330080;
+}
+
+.hero-bg-color{
+    background-color: #330080;
+}
+
+.hero-button-01{
+    background-color: #330080;
+    color: #fff;
+}
+
+.hero-button-01:hover{
+    background-color: #fff;
+    border: solid 1px #330080;
+    color: #330080;
+    transition: 0.2s;
+}
+
+.hero-button-02{
+    background-color: #fff;
+    color: #330080;
+    border: solid 1px #330080;
+}
+
+.hero-button-02:hover{
+    background-color: #330080;
+    border: solid 1px #fff;
+    color: #fff;
+    transition: 0.2s;
+}

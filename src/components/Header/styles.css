@@ -1,0 +1,21 @@
+/*HEADER CSS*/
+.header-color{
+    background-color: #330080;
+}
+
+.header-button:hover{
+    background-color: #fff;
+    border: solid 1px #330080;
+    color: #330080;
+    transition: 0.2s;
+}
+
+a{
+    font-weight: 600;
+    color: #333;
+}
+
+a:hover{
+    color: #330080;
+    transition: 0.2s;
+}

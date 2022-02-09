@@ -1,0 +1,16 @@
+/*FAQ CSS*/
+.faq-color{
+    color: #330080;
+}
+
+.faq-button{
+    background-color: #330080;
+    color: #fff;
+}
+
+.faq-button:hover{
+    background-color: #fff;
+    border: solid 1px #330080;
+    color: #330080;
+    transition: 0.2s;
+}

@@ -1,0 +1,16 @@
+/*CONTACTUS CSS*/
+.contactus-bg{
+    background-color: #333;
+}
+
+.button-color{
+    background-color: #330080;
+    color: #fff;
+}
+
+button:hover{
+    background-color: #333;
+    border: solid 1px #fff;
+    color: #fff;
+    transition: 0.2s;
+}

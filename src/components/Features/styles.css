@@ -1,0 +1,20 @@
+/*FEATURES CSS*/
+.features-color{
+    color: #330080;
+}
+
+.features-bg-color{
+    background-color: #330080;
+}
+
+.features-button{
+    background-color: #330080;
+    color: #fff;
+}
+
+.features-button:hover{
+    background-color: #fff;
+    border: solid 1px #330080;
+    color: #330080;
+    transition: 0.2s;
+}
